@@ -15,7 +15,7 @@ public class Flight_Booking {
 	@Test
 	void book_Spicejet_com() throws InterruptedException {
 		
-		System.out.println("changes ma");
+		System.out.println("");
 		
 	}
 
